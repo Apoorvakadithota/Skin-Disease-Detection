@@ -25,13 +25,13 @@ Pastikan Anda memiliki Python terinstal di sistem Anda sebelum memulai.
 **1.** Clone repositori proyek Streamlit Anda ke dalam direktori lokal:
 
    ```bash
-   git clone https://github.com/ramadhanabelio/skin_disease_app.git
+   git clone https://github.com/ramadhanabelio/skin_disease.git
    ```
 
 **2.** Masuk ke direktori proyek:
 
    ```bash
-   cd skin_disease_app
+   cd skin_disease
    ```
 
 **3.** Install dependensi menggunakan pip:
