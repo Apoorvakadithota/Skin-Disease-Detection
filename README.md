@@ -1,4 +1,4 @@
-# Skin Diseases App | Prediksi Penyakit Kulit menggunakan Streamlit (Decision Tree)
+# Skin Diseases App | Prediksi Penyakit Kulit with Streamlit (Decision Tree Algorithm)
 
 ## Deskripsi
 Aplikasi ini bertujuan untuk melakukan prediksi penyakit kulit berdasarkan gejala yang diinput pengguna. Dengan menggunakan model Decision Tree Classifier, aplikasi dapat memberikan prediksi terkait penyakit kulit yang mungkin dialami berdasarkan gejala yang dipilih.
