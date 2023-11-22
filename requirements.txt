@@ -1,0 +1,4 @@
+pandas
+sklearn.tree
+streamlit
+streamlit_option_menu
