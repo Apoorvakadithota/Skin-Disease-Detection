@@ -3,6 +3,8 @@
 ## Deskripsi
 Aplikasi ini bertujuan untuk melakukan prediksi penyakit kulit berdasarkan gejala yang diinput pengguna. Dengan menggunakan model Decision Tree Classifier, aplikasi dapat memberikan prediksi terkait penyakit kulit yang mungkin dialami berdasarkan gejala yang dipilih.
 
+![Skin Diseases App Thumbnail](github/Skin%20Diseases%20App%20Thumbnail.png)
+
 ## Fitur-fitur
 1. Prediksi Penyakit Kulit berdasarkan Gejala
 2. Tampilan Interaktif menggunakan Streamlit
