@@ -49,6 +49,7 @@ elif selected == "Dataset":
     st.title('Info Dataset')
     st.write('**Dataset dan Atribut:**')
     st.write(df.head())
+    
     # List daftar atribut
     st.markdown("1. Ruam: Merupakan fitur yang menunjukkan apakah pasien memiliki ruam (Ya/Tidak)")
     st.markdown("2. Gatal: Merupakan fitur yang menunjukkan apakah pasien memiliki gatal-gatal (Ya/Tidak)")
