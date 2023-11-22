@@ -1,4 +1,4 @@
-# Skin Disease App | Prediksi Penyakit Kulit menggunakan Streamlit (Decision Tree)
+# Skin Diseases App | Prediksi Penyakit Kulit menggunakan Streamlit (Decision Tree)
 
 ## Deskripsi
 Aplikasi ini bertujuan untuk melakukan prediksi penyakit kulit berdasarkan gejala yang diinput pengguna. Dengan menggunakan model Decision Tree Classifier, aplikasi dapat memberikan prediksi terkait penyakit kulit yang mungkin dialami berdasarkan gejala yang dipilih.
@@ -25,13 +25,13 @@ Pastikan Anda memiliki Python terinstal di sistem Anda sebelum memulai.
 **1.** Clone repositori proyek Streamlit Anda ke dalam direktori lokal:
 
    ```bash
-   git clone https://github.com/ramadhanabelio/skin_disease.git
+   git clone https://github.com/ramadhanabelio/skin_diseases.git
    ```
 
 **2.** Masuk ke direktori proyek:
 
    ```bash
-   cd skin_disease
+   cd skin_diseases
    ```
 
 **3.** Install dependensi menggunakan pip:
