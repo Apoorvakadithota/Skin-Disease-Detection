@@ -37,13 +37,13 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 **1.** Clone your Streamlit project repository into a local directory:
 
 ```bash
-git clone https://github.com/ramadhanabelio/skin_diseases.git
+git clone https://github.com/ramadhanabelio/skin-diseases-app.git
 ```
 
 **2.** Go to the project directory:
 
 ```bash
-cd skin_diseases
+cd skin-diseases-app
 ```
 
 **3.** Install dependencies using pip:
