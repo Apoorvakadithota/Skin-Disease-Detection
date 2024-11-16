@@ -1,55 +1,68 @@
-# Skin Diseases App | Prediksi Penyakit Kulit with Streamlit (Decision Tree Algorithm)
+<div id="start-of-content" align="center">
 
-## Deskripsi
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/webintellectual/Streamlit-Snippets/blob/main/streamlit_logo.svg" alt="Streamlit" width="120" height="40"/>
+</a>
 
-Aplikasi ini bertujuan untuk melakukan prediksi penyakit kulit berdasarkan gejala yang diinput pengguna. Dengan menggunakan model Decision Tree Classifier, aplikasi dapat memberikan prediksi terkait penyakit kulit yang mungkin dialami berdasarkan gejala yang dipilih.
+##
+
+### Skin Diseases App, Skin Disease Prediction Application with Streamlit (Decision Tree Algorithm)
+
+</div>
+
+## 📙 Description
+
+This application aims to predict skin diseases based on the symptoms input by the user. By using the Decision Tree Classifier model, the application can provide predictions regarding skin diseases that may be experienced based on the selected symptoms.
 
 ![Skin Diseases App Thumbnail](github/Skin%20Diseases%20App%20Thumbnail.png)
 
-## Fitur-fitur
+## 📖 Features
 
-1. Prediksi Penyakit Kulit berdasarkan Gejala
-2. Tampilan Interaktif menggunakan Streamlit
+Interesting features of Skin Diseases App:
 
-## Sumber Daya Proyek
+1. **Prediction of Skin Diseases Based on Symptoms**: This application allows users to predict the type of skin disease based on the symptoms entered. By using a machine learning model, the application provides accurate prediction results as an initial guide to understanding the user's skin condition.
+
+2. **Interactive Display**: This application is designed with an interactive and user-friendly interface using Streamlit. Users can easily enter data, see prediction results visually, and interact with other features in the application.
+
+## Project Resources
 
 1. Python
 2. Streamlit
 3. Pandas
 4. scikit-learn (sklearn)
 
-## Panduan Penggunaan
+## 🛠️ Project Installation Guide
 
-Berikut adalah langkah-langkah untuk menjalankan aplikasi Streamlit:
+Following are the steps to run a Streamlit application:
 
-### Prasyarat
+### Prerequisites
 
-Pastikan Anda memiliki Python terinstal di sistem Anda sebelum memulai.
+Make sure you have [Python](https://www.python.org/downloads/) installed on your system before starting.
 
-### Langkah-langkah
+### Steps
 
-**1.** Clone repositori proyek Streamlit Anda ke dalam direktori lokal:
+**1.** Clone your Streamlit project repository into a local directory:
 
 ```bash
 git clone https://github.com/ramadhanabelio/skin_diseases.git
 ```
 
-**2.** Masuk ke direktori proyek:
+**2.** Go to the project directory:
 
 ```bash
 cd skin_diseases
 ```
 
-**3.** Install dependensi menggunakan pip:
+**3.** Install dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-**4.** Jalankan aplikasi Streamlit:
+**4.** Run the Streamlit application:
 
 ```bash
 streamlit run app.py
 ```
 
-Setelah mengikuti langkah-langkah di atas, aplikasi Streamlit akan berjalan dan dapat diakses melalui browser pada alamat yang ditampilkan oleh Streamlit (biasanya http://localhost:8501).
+After following the steps above, your Streamlit project is now ready to use and can be accessed via the browser at http://localhost:8501.
