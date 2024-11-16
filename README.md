@@ -6,7 +6,7 @@
 
 ##
 
-### Skin Diseases App, Skin Disease Prediction Application with Streamlit (Decision Tree Algorithm)
+### Skin Diseases App | Skin Disease Prediction Application with Streamlit (Decision Tree Algorithm)
 
 </div>
 
