@@ -24,13 +24,6 @@ Interesting features of Skin Diseases App:
 
 2. **Interactive Display**: This application is designed with an interactive and user-friendly interface using Streamlit. Users can easily enter data, see prediction results visually, and interact with other features in the application.
 
-## 📁 Project Resources
-
-1. Python
-2. Streamlit
-3. Pandas
-4. scikit-learn (sklearn)
-
 ## 🛠️ Project Installation Guide
 
 Following are the steps to run a Streamlit application:
